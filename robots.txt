@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raymondproguy.github.io/resources-w24qqa/sitemap.xml
